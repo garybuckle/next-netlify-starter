@@ -18,7 +18,7 @@ export default function Home() {
         <Header title="let the wild rumpus start!" />
         <p className="description">
           garybuckle started editing at <code>pages/index.js</code>
-          installed tailwind and then disabled it!
+          installed tailwind and then disabled it!, followed by Bootstrap...
         </p>
       </main>
 
